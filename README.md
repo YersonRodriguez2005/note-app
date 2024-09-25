@@ -13,7 +13,7 @@ Notes App es una aplicación web diseñada para facilitar la gestión de notas p
   - ![Python](https://img.icons8.com/color/48/000000/python.png) Python
   - ![Flask](https://img.icons8.com/ios-filled/50/000000/flask.png) Flask
 - **Base de Datos**: 
-  - ![MariaDB](https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png) MariaDB
+  - ![MariaDB](https://mariadb.org/wp-content/uploads/2019/07/mariadb-logo.svg) MariaDB
 
 ## 🚀 Guía de Uso
 
